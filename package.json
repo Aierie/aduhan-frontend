@@ -1,0 +1,41 @@
+{
+  "name": "react-map",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@rmwc/base": "5.3.1",
+    "@rmwc/button": "5.3.1",
+    "@rmwc/checkbox": "5.3.1",
+    "@rmwc/grid-list": "5.3.1",
+    "@rmwc/icon": "5.3.1",
+    "@rmwc/list": "5.3.1",
+    "@rmwc/tabs": "5.3.1",
+    "@rmwc/textfield": "5.3.1",
+    "@rmwc/theme": "5.3.1",
+    "@rmwc/types": "5.3.1",
+    "@rmwc/typography": "latest",
+    "immutable": "4.0.0-rc.12",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-map-gl": "4.1.2",
+    "react-scripts": "2.1.8",
+    "react-scrollbars-custom": "4.0.0-alpha.12"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
